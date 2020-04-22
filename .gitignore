@@ -7,6 +7,7 @@
 sysinfo.txt
 *.stackdump
 /Assets/AssetStoreTools*
+/Assets/Plugins/iOS*
 *.unitypackage
  
 # ===================================== #
